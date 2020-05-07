@@ -1,0 +1,35 @@
+.refiner-page-panel {
+    max-width: 560px;
+    width: 100%;
+    padding: 40px;
+    border-radius: 12px;
+    background: #fff;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.1);
+    border: 1px solid #e9ecef;
+    margin: 20px 15px;
+}
+
+.refiner-page-panel p.refiner-page-description {
+}
+
+.refiner-page-panel input[type=text] {
+    width: 100%;
+}
+
+.refiner-logo-wrapper {
+    min-height: 74px;
+    padding: 0px 0px 20px 0px;
+    box-sizing: border-box;
+}
+
+.refiner-logo-wrapper img {
+    width: 142px;
+    display: block;
+}
+
+.refiner-logo {
+    display: block;
+    width: 80px;
+    margin-bottom: 1rem;
+}
+
