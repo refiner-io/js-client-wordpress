@@ -1,21 +1,20 @@
-=== Refiner ===
+=== Refiner.io Popup Micro Surveys ===
 Contributors: refiner
-Tags: refiner,survey,form,poll,nps,net promoter score,feedback
+Tags: refiner,survey,form,poll,nps,net promoter score,popup surveys,feedback
 Requires at least: 4.6
 Tested up to: 5.4.1
 Stable tag: 1.0.0
+Requires PHP: 7.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
-Micro-surveys that drive user engagement.  
+Install Refiner.io on your WordPress site and launch popup surveys that dtive user engagement.
 
 == Description ==
 
-Refiner is a [customer survey tool](https://refiner.io/customer-survey-tool/) built specifically for SaaS, eCommerce and Membership sites. Our simple and beautiful survey widgets get you the responses you need to grow your business - on brand and perfectly timed.
+Refiner is a customer survey and Net Promoter Score tool built specifically for SaaS companies. Our simple and beautiful [survey widgets](https://refiner.io/survey-widgets/) get you the responses you need to grow your business - on brand and perfectly timed.
 
-With Refiner you can ask your users any question while they are using your product. This is the moment when they are the most engaged and trust your brand. Unbeatable response rates and highly accurate data guaranteed!
-
-Gradually profile your users, trigger ultra-personalized nurturing campaigns, uncover great sales opportunities, research what to build next, measure customer satisfaction (CSAT), net promoter score (NPS), or customer effort score (CES). Refiner comes packed with all the survey tools you need to gain actionable insights.
+With Refiner you can launch pop up surveys and ask your users any question while they are browsing your website. Gradually profile your users, trigger ultra-personalized nurturing campaigns, uncover great sales opportunities, research what to build next, measure customer satisfaction (CSAT), [Net Promoter Score (NPS)](https://refiner.io/nps-survey-tool-saas/), or customer effort score (CES). Refiner comes packed with all the survey tools you need to gain actionable insights.
 
 Refiner integrates into your existing marketing & sales stacks seamlessly. Our integrations allow you to sync survey responses to the tools you already use in real time, such as your CRM, email marketing automation platform, your backend API or good old Excel. 
 
