@@ -66,6 +66,7 @@ function refiner_plugin_init() {
 
 				$code = "<script async src=\"https://js.refiner.io/v001/client.js\"></script>";
 				$code .= "<script>window._refinerQueue = window._refinerQueue || [];function _refiner(){_refinerQueue.push(arguments);}_refiner('setProject', '" . $refiner_project_id. "');</script>";
+				$code .= "<script>_refiner('setInstallationMethod', 'wordpress');</script>";
 
 				if (get_option('refiner_identify_users') === 'yes' && $user = wp_get_current_user()) {
 					$id = esc_html__($user->name ? $user->name : $user->ID); 
