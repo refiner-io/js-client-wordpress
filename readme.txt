@@ -1,6 +1,6 @@
 === Refiner.io Popup Micro Surveys ===
 Contributors: refiner
-Tags: refiner,survey,form,poll,nps,net promoter score,popup surveys,feedback
+Tags: survey,website feedback,nps,survey widget,poll
 Requires at least: 4.6
 Tested up to: 6.4.3
 Stable tag: 1.0.1
@@ -72,10 +72,8 @@ Yes, our [Privacy Policy](https://refiner.io/legal/privacy-policy/) fully respec
 
 == Changelog ==
 
+= 1.0 =
+* Initial release.
 = 1.0.1 =
 * Readme update
 * Set installation method 
-
-= 1.0 =
-* Initial release.
-
