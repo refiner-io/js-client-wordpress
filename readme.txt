@@ -2,8 +2,8 @@
 Contributors: refiner
 Tags: refiner,survey,form,poll,nps,net promoter score,popup surveys,feedback
 Requires at least: 4.6
-Tested up to: 5.4.1
-Stable tag: 1.0.0
+Tested up to: 6.4.3
+Stable tag: 1.0.1
 Requires PHP: 7.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
@@ -12,15 +12,15 @@ Install Refiner.io on your WordPress site and launch popup surveys that dtive us
 
 == Description ==
 
-Refiner is a customer survey and Net Promoter Score tool built specifically for SaaS companies. Our simple and beautiful [survey widgets](https://refiner.io/survey-widgets/) get you the responses you need to grow your business - on brand and perfectly timed.
+Refiner is a customer feedback survey tool built web & mobile product companies. Get spot-on insights from your users with perfectly timed [microsurveys](https://refiner.io/features/in-product-microsurveys/).
 
-With Refiner you can launch pop up surveys and ask your users any question while they are browsing your website. Gradually profile your users, trigger ultra-personalized nurturing campaigns, uncover great sales opportunities, research what to build next, measure customer satisfaction (CSAT), [Net Promoter Score (NPS)](https://refiner.io/nps-survey-tool-saas/), or customer effort score (CES). Refiner comes packed with all the survey tools you need to gain actionable insights.
+With Refiner you can ask your users any question while they are using your app or browsing your website. Measure [customer satisfaction (CSAT)](https://refiner.io/solutions/csat/), [Net Promoter Score (NPS)](https://refiner.io/solutions/nps/), or [customer effort score (CES)](https://refiner.io/solutions/ces/), research what to built next or profile your users. Refiner supports all survey use cases and comes packed with expert-built templates that will get you started quickly.
 
 Refiner integrates into your existing marketing & sales stacks seamlessly. Our integrations allow you to sync survey responses to the tools you already use in real time, such as your CRM, email marketing automation platform, your backend API or good old Excel. 
 
 Refiner helps you to understand who your users really are, what they need and how you can help them achieve their goals. Get started for free today and increase conversion & retention rates with better customer data.
 
-This plugin provides a simple installation of Refiner on your WordPress site.
+This plugin install the Refiner JavaScript Web-Client on your WordPress site.
 
 == Installation ==
 
@@ -71,6 +71,10 @@ Yes, our [Privacy Policy](https://refiner.io/legal/privacy-policy/) fully respec
 3. Refiner offers various integrations to automate workflows and sync survey responses to where you need them
 
 == Changelog ==
+
+= 1.0.1 =
+* Readme update
+* Set installation method 
 
 = 1.0 =
 * Initial release.
