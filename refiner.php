@@ -23,7 +23,7 @@ function refiner_plugin_init() {
 
 		class WP_Refiner {
 
-			const VERSION = '1.0.0';	
+			const VERSION = '1.0.2';	
 
 			public function __construct() {
 				add_action( 'admin_init', array($this, 'install'));
