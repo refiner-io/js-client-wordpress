@@ -1,15 +1,12 @@
 # Refiner Wordpress Plugin
 
-This repository hosts the official [Refiner](https://refiner.io) Wordpress plugin.
+This repository hosts the official [Refiner](https://refiner.io) Wordpress plugin. Installing this plugin will add the [Refiner JavaScript Web-Client](https://refiner.io/docs/kb/javascript-client/client-introduction/) on your WordPress site.
 
-Refiner is a customer survey and Net Promoter Score tool built specifically for SaaS companies. Our simple and beautiful [survey widgets](https://refiner.io/survey-widgets/) get you the responses you need to grow your business - on brand and perfectly timed.
+Refiner is a customer feedback survey platform designed specifically for web and mobile applications. Get spot-on insights from your users with perfectly timed [website microsurveys](https://refiner.io/features/website-surveys/).
 
-With Refiner you can ask your users any question while they are using your product. This is the moment when they are the most engaged and trust your brand. Unbeatable response rates and highly accurate data guaranteed!
+With Refiner you can ask your users any question while they are using your app or browsing your website. Measure [customer satisfaction (CSAT)](https://refiner.io/solutions/csat/), [Net Promoter Score (NPS)](https://refiner.io/solutions/nps/), or [customer effort score (CES)](https://refiner.io/solutions/ces/), research what to built next or profile your users. Refiner supports all survey use cases and comes packed with expert-built templates that will get you started quickly.
 
-Gradually profile your users, trigger ultra-personalized nurturing campaigns, uncover great sales opportunities, research what to build next, measure customer satisfaction (CSAT), [Net Promoter Score (NPS)](https://refiner.io/nps-survey-tool-saas/), or customer effort score (CES). Refiner comes packed with all the survey tools you need to gain actionable insights.
-
-Refiner integrates into your existing marketing & sales stacks seamlessly. Our integrations allow you to sync survey responses to the tools you already use in real time, such as your CRM, email marketing automation platform, your backend API or good old Excel. 
+Refiner integrates into your existing marketing & sales stacks seamlessly. Our integrations allow you to sync survey responses to the tools you already use in real time, such as your CRM, email marketing automation platform, your backend API or data warehouse.  
 
 Refiner helps you to understand who your users really are, what they need and how you can help them achieve their goals. Get started for free today and increase conversion & retention rates with better customer data.
 
-This plugin provides a simple installation of Refiner on your WordPress site.
